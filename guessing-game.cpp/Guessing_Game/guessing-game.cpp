@@ -3,10 +3,10 @@
 #include <ctime>
 
 using namespace std;
-//
-//int welcomeProtocol (int userNum);
-//int safteyProtocol (int userNum);
-//void gamingSequence (int userNum, int targetNum);
+
+int welcomeProtocol (int userNum);
+int safteyProtocol (int userNum);
+void gamingSequence (int userNum, int targetNum);
 
 int main() {
     
